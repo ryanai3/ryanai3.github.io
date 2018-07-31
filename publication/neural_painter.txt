@@ -1,7 +1,0 @@
-+++
-title = "The Neural Painter - Multi Turn Image generation"
-date = 2018-06-18T00:00:00
-
-authors = ["Ryan Y Benmalek", "Claire Cardie", "Serge Belongie",  "Xiadong He", "Jianfeng Gao"]
-
-publication_types=["
