@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://ryanai3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ryanai3.github.io/tags/computer-vision/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>https://ryanai3.github.io/tags/gan/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://ryanai3.github.io/tags/nlp/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

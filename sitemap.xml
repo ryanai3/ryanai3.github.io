@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>https://ryanai3.github.io/publication/neural_painter/</loc>
+      <lastmod>2018-06-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ryanai3.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -50,6 +59,36 @@
     
     <url>
     
+      <loc>https://ryanai3.github.io/tags/computer-vision/</loc>
+      <lastmod>2018-06-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ryanai3.github.io/tags/gan/</loc>
+      <lastmod>2018-06-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ryanai3.github.io/tags/nlp/</loc>
+      <lastmod>2018-06-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ryanai3.github.io/</loc>
       <lastmod>2016-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -61,6 +100,7 @@
     <url>
     
       <loc>https://ryanai3.github.io/tags/</loc>
+      <lastmod>2018-06-18T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
