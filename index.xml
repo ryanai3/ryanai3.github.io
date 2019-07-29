@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 01:10:58 -0700</lastBuildDate>
     
 	<atom:link href="https://ryanai3.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -64,6 +64,15 @@ I&amp;rsquo;m advised by Serge Belongie and Claire Cardie. Before that, I gradua
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://ryanai3.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keeping Notes: Conditional Natural Language Generation with a Scratchpad Mechanism</title>
+      <link>https://ryanai3.github.io/publication/scratchpad/</link>
+      <pubDate>Mon, 29 Jul 2019 01:10:58 -0700</pubDate>
+      
+      <guid>https://ryanai3.github.io/publication/scratchpad/</guid>
       <description></description>
     </item>
     
